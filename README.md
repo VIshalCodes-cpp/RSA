@@ -1,12 +1,41 @@
-# React + Vite
+# 🔐 Kryptonites – RSA Encryption Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Kryptonites** — a modern and interactive web app that demonstrates **RSA encryption and decryption** in action. Built with **React** and styled using **Tailwind CSS**, this project provides an intuitive interface to securely encrypt and decrypt messages using the RSA algorithm.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔒 **Encrypt Text**: Securely encrypt your messages using RSA encryption.
+- 🔓 **Decrypt Text**: Decrypt RSA-encrypted messages back to their original form.
+- 📚 **How It Works**: Learn how the RSA algorithm functions through an external resource.
+- 📱 **Smooth Navigation**: Seamless scroll-based navigation between sections.
+- 🎨 **Modern UI**: Beautifully styled with Tailwind CSS and icon support via `react-icons`.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React
+- **Styling**: Tailwind CSS
+- **Icons**: React Icons (`react-icons`)
+- **Deployment**: Netlify
+
+---
+
+## 📸 Screenshots
+
+| Home Page | Encrypt Section | Decrypt Section |
+|-----------|------------------|------------------|
+| *(Add screenshots here)* | *(Add screenshots here)* | *(Add screenshots here)* |
+
+---
+
+## 🧠 How RSA Works
+
+> We’ve included a quick link to [Wikipedia - RSA Cryptosystem](https://en.wikipedia.org/wiki/RSA_cryptosystem) so you can understand the math and mechanics behind the encryption process.
+
+---
+
+## 📂 Folder Structure
+
