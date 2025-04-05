@@ -38,4 +38,35 @@ Welcome to **Kryptonites** — a modern and interactive web app that demonstrate
 ---
 
 ## 📂 Folder Structure
+myapp/ ├── public/ │ └── _redirects ├── src/ │ ├── components/ │ │ └── Navbar.jsx │ ├── App.jsx │ └── main.jsx ├── package.json ├── vite.config.js └── README.md
+
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/kryptonites.git
+cd kryptonites
+
+
+Install dependencies
+
+npm install
+
+Run the app
+
+npm run dev
+
+Build for production
+
+npm run build
+
+
+🌐 Live Demo
+
+Check out the live version here:
+🔗https://kryptonites.netlify.app/
 
