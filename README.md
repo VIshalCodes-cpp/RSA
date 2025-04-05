@@ -48,25 +48,27 @@ myapp/ ├── public/ │ └── _redirects ├── src/ │ ├── c
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/kryptonites.git
+git clone https://github.com/VIshalCodes-cpp/kryptonites.git
 cd kryptonites
+```
 
 
-Install dependencies
+## Install dependencies
 
+```bash
 npm install
 
 Run the app
 
 npm run dev
+```
 
-Build for production
+##Build for production
 
+``` bash
 npm run build
-
-
-🌐 Live Demo
-
+```
+##🌐 Live Demo
 Check out the live version here:
-🔗https://kryptonites.netlify.app/
+[krypotnies](https://kryptonites.netlify.app/)
 
